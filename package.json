@@ -1,0 +1,17 @@
+{
+  "name": "m2n",
+  "version": "0.0.1",
+  "description": "Mongrel2 handler",
+  "homepage": "http://github.com/dannycoates/m2n",
+  "author": "Danny Coates <dannycoates@gmail.com>",
+  "keywords": ["mongrel", "mongrel2"],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dannycoates/m2n.git"
+  },
+  "engines": { "node": ">=0.6" },
+  "dependencies": {
+    "zmq": "~2.0.0",
+    "tnet": "~1.1.1"
+  }
+}
